@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Name
-project(Librry-Inventory-System VERSION 1.0)
+project(Library-Inventory-System VERSION 1.0)
 
 # C++ standard
 set(CMAKE_CXX_STANDARD 17)
