@@ -15,8 +15,8 @@ set(SOURCES
     src/main.cpp
     src/item.cpp
     src/item.h
-    src/library.cpp
-    src/library.h
+    src/LibraryStorage.cpp
+    src/LibraryStorage.h
     src/book.cpp
     src/book.h
     src/movie.cpp
